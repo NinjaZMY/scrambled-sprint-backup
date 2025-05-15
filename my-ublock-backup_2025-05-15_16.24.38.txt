@@ -1,0 +1,30 @@
+{
+  "timeStamp": 1747322678981,
+  "version": "1.63.2",
+  "userSettings": {
+    "cloudStorageEnabled": true,
+    "importedLists": [],
+    "popupPanelSections": 15
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-unbreak",
+    "ublock-quick-fixes",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "chrome-extension-scheme",
+    "moz-extension-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false",
+  "userFilters": "! May 14, 2025 https://genius.com\ngenius.com###lyrics-root > div.kjpsqk.RightSidebar__Container-sc-29f47c92-0"
+}
